@@ -1,0 +1,22 @@
+<application>
+  <component name="easyJavadoc">
+    <option name="author" value="Seamus Gu" />
+    <option name="kdocAuthor" value="Seamus Gu" />
+    <option name="kdocSimpleFieldDoc" value="true" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="RuoYi-Cloud-Plus-master">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="SeedBackend">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="simpleFieldDoc" value="true" />
+  </component>
+</application>

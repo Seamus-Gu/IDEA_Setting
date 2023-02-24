@@ -1,0 +1,19 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://121.4.63.2:3000" />
+          <option name="userName" value="Gu" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://103.150.181.217:3000" />
+          <option name="userName" value="Seamus_Gu" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+</application>
