@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="文件 '…\only-api\only-api-system\src\main\java\com\only\system\api\entity\SysUser.java [only-api-system]'" />
-    <option name="defaultScopeName" value="文件 '…\only-api\only-api-system\src\main\java\com\only\system\api\entity\SysUser.java [only-api-system]'" />
-    <option name="SEARCH_SCOPE" value="文件 '…\only-api\only-api-system\src\main\java\com\only\system\api\entity\SysUser.java [only-api-system]'" />
+    <option name="customScope" value="所有位置" />
+    <option name="defaultScopeName" value="所有位置" />
+    <option name="SEARCH_SCOPE" value="所有位置" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
