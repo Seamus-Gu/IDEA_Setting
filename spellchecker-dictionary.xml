@@ -4,6 +4,7 @@
       <w>dubbo</w>
       <w>nacos</w>
       <w>seata</w>
+      <w>skywalking</w>
       <w>springdoc</w>
     </words>
   </component>
